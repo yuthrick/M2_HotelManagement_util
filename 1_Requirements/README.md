@@ -15,7 +15,7 @@ In short, I have taken up this project to overcome the limitations and easily ta
 -----  | -------------| ---------------------------
 HLR1 |  we can book room  | Implemented
 HLR2 |  Proper Login Validation | Implemented
-HLR3 |  Proper Validation in Adding Information | Impemented
+HLR3 |  Proper Validation in Adding Information | Implemented
 HLR4 |  Customer Info | Implemented
 
  
@@ -26,7 +26,7 @@ HLR4 |  Customer Info | Implemented
 -----  | -------------| ---------------------------
 HLR1 |  User can Add rooms  | Implemented
 HLR2 |  Order food | Implemented
-HLR3 |  Order New Items| Impemented
+HLR3 |  Order New Items| Implemented
 HLR4 |  Checkout and Payments | Implemented
 HLR5 | Logout  | Implemented
 
