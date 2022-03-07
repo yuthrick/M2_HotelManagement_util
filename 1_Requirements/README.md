@@ -15,29 +15,20 @@ In short, I have taken up this project to overcome the limitations and easily ta
 -----  | -------------| ---------------------------
 HLR1 |  we can book room  | Implemented
 HLR2 |  Proper Login Validation | Implemented
-HlR3 |  Proper Validation in Adding Information | Impemented
+HLR3 |  Proper Validation in Adding Information | Impemented
+HLR4 |  Customer Info | Implemented
 
- we can book room
-
- It is very secure as only the authorized user gets to access the program because of the login function.
-
- The password is kept hidden.
-
- There is a backup of the files in case they get damaged or lost.
  
-  Proper Login Validation.
-
- Proper Validation in Adding Information.
 
 # low level Requirements
 
-Adding
-
-Viewing
-
-Editing
-
-Deleting Records.
+-- ID  | Description  | Status (Implemented/Future)
+-----  | -------------| ---------------------------
+HLR1 |  User can Add rooms  | Implemented
+HLR2 |  Order food | Implemented
+HLR3 |  Order New Items| Impemented
+HLR4 |  Checkout and Payments | Implemented
+HLR5 | Logout  | Implemented
 
 # SWOT
 
