@@ -11,6 +11,12 @@ In short, I have taken up this project to overcome the limitations and easily ta
 
 # High level Requirements
 
+-- ID  | Description  | Status (Implemented/Future)
+-----  | -------------| ---------------------------
+HLR1 |  we can book room  | Implemented
+HLR2 |  Proper Login Validation | Implemented
+HlR3 |  Proper Validation in Adding Information | Impemented
+
  we can book room
 
  It is very secure as only the authorized user gets to access the program because of the login function.
