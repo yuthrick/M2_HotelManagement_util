@@ -11,6 +11,8 @@ Adding New Items
 
 Add food 
 
+log out
+
 
 # OUTPUT
 
